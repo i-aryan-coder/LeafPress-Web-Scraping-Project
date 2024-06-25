@@ -1,0 +1,7 @@
+Tagline: ['Leafpress  Leading Utility Data Collection with AI Integration']
+
+Description: ['We use AI to collect and read your trickiest electricity, gas, water, and waste data in seconds.']
+
+Services: BMS Integration, Premium Analytics, Industry Insights, BMS Integration, Premium Analytics, Industry Insights
+
+Contact Information: https://twitter.com/getleafpress
